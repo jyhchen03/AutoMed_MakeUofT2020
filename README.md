@@ -13,7 +13,7 @@ _Hardware used:_
 - Servo motors
 - LEDs
 
-_emo Video:_
+_Demo Video:_
 [![AutoMed](Thumbnail.png)](https://youtu.be/0oOiLHQxQl0)
 
 >The AutoMed dispenses medication, at the right time, in the right quantity for the patient. It prevents the patient from taking the incorrect medication, or the incorrect amount of medicine. It also uploads data to MongoDB, so that the patient's pharmacist and doctor can monitor the patient's progress on their medication. In addition, the patient and pharmacist can be reminded to refill the prescription when the medication runs low.
